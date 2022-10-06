@@ -1,10 +1,10 @@
-## Ciao World! 
-
 <div align="center">
  
 ![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
  
 </div>
+
+### Ciao! 
 
 I'm **Steve**, a **Frontend Developer** from the 🇺🇲 USA, currently living in 🇯🇵 Japan. こんにちは! I specialize in **Javascript** and build interesting things using **React**! 
 
@@ -17,7 +17,7 @@ One of the cool things I've built is **Flip**, the cutest flashcard app that you
 
 You can learn more about Flip ![here](https://flipflashcard.com), or better yet, try it out for yourself by downloading it from the ![appstore](https://apps.apple.com/us/app/flip-flashcard/id1637560175?l=en). Your future (and *smarter*) self will thank you 🤓. 
 
-## Software
+### Software
 
 I'm always learning new tools and skills but currently some of my favorite technologies are: 
 
@@ -54,7 +54,7 @@ I'm always learning new tools and skills but currently some of my favorite techn
  </tr>
 </table>
 
-## Contact 
+### Contact 
 Looking to **collaborate**? 
 
 Hit me up: stevevang425@gmail.com
