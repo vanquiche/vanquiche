@@ -1,20 +1,27 @@
-### Hi there 👋
+## Ciao World! 
 
+<div align="center">
+ 
 ![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+ 
+</div>
 
 I'm **Steve**, a **Frontend Developer** from the 🇺🇲 USA, currently living in 🇯🇵 Japan. こんにちは! I specialize in **Javascript** and build interesting things using **React**! 
 
 One of the cool things I've built is **Flip**, the cutest flashcard app that you can find to help you study and memorize anything! 
-
+<div align="center">
+ 
 ![Flip banner](https://res.cloudinary.com/dvrs8gsj3/image/upload/v1664945805/flip-app/flip-banner_msibq8.png)
+ 
+</div>
 
-You can learn more about Flip ![here](https://flipflashcard.com), or better yet, try it out for yourself by downloading it from the ![appstore](https://apps.apple.com/us/app/flip-flashcard/id1637560175?l=en). Your future (and *smarter*) self will thank you. 
+You can learn more about Flip ![here](https://flipflashcard.com), or better yet, try it out for yourself by downloading it from the ![appstore](https://apps.apple.com/us/app/flip-flashcard/id1637560175?l=en). Your future (and *smarter*) self will thank you 🤓. 
 
-### Software
+## Software
 
-I'm always learning new tools and skills but currently some of my favorite technologies to use are: 
+I'm always learning new tools and skills but currently some of my favorite technologies are: 
 
-<table border=0>
+<table>
 <tr>
 <td>
 <img height="25" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" title="HTML" /> <span>HTML</span>
@@ -46,8 +53,10 @@ I'm always learning new tools and skills but currently some of my favorite techn
  </td>
  </tr>
 </table>
-cool project (flip flashcard app)
 
-contact 
- - email
- - socials 
+## Contact 
+Looking to **collaborate**? 
+
+Hit me up: stevevang425@gmail.com
+
+*socials coming soon...*
