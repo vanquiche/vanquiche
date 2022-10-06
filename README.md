@@ -63,5 +63,5 @@ Hit me up: stevevang425@gmail.com
 
 *socials coming soon...*
 
-[<img src="https://img.icons8.com/fluency/48/000000/linkedin.png"/>](https://www.linkedin.com/in/stevevang/)
-[<img src="https://img.icons8.com/color/48/000000/twitter--v1.png"/>](#)
+[<img src="https://img.icons8.com/fluency/50/000000/linkedin.png"/>](https://www.linkedin.com/in/stevevang/)
+[<img src="https://img.icons8.com/color/50/000000/twitter--v1.png"/>](#)
