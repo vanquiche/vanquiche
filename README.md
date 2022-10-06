@@ -46,6 +46,8 @@ I'm always learning new tools and skills but currently some of my favorite techn
 <img height="25" src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" alt="TypeScript" title="TypeScript" /> <span>TypeScript</span>
  </td>
  <td>
+ <img height="25" src="https://user-images.githubusercontent.com/25181517/187896150-cc1dcb12-d490-445c-8e4d-1275cd2388d6.png" alt="Redux" title="Redux" /> <span>Redux</span>
+ <td>
 <img height="25" src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" alt="Node.js" title="Node.js" /> <span>Node.js</span>
  </td>
  <td>
