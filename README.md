@@ -15,7 +15,7 @@ One of the cool things I've built is **Flip**, the cutest flashcard app that you
  
 </div>
 
-You can learn more about Flip ![here](https://flipflashcard.com), or better yet, try it out for yourself by downloading it from the ![appstore](https://apps.apple.com/us/app/flip-flashcard/id1637560175?l=en). Your future (and *smarter*) self will thank you 🤓. 
+You can learn more about Flip [here](https://flipflashcard.com), or better yet, try it out for yourself by downloading it from the [appstore](https://apps.apple.com/us/app/flip-flashcard/id1637560175?l=en). Your future (and *smarter*) self will thank you 🤓. 
 
 ### Software
 
