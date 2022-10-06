@@ -61,7 +61,7 @@ Looking to **collaborate**?
 
 Hit me up: stevevang425@gmail.com
 
-*socials coming soon...*
+**Follow Me!**
 
 [<img src="https://img.icons8.com/fluency/48/000000/linkedin.png"/>](https://www.linkedin.com/in/stevevang/)
 [<img src="https://img.icons8.com/color/48/000000/twitter--v1.png"/>](#)
