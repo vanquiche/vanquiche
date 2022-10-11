@@ -6,7 +6,7 @@
 
 ### Ciao! 
 
-I'm **Steve**, a **Frontend Developer** from the 🇺🇲 USA, currently living in 🇯🇵 Japan. こんにちは! I specialize in **Javascript** and build interesting things using **React**! 
+I'm **Steve**, a **Frontend Developer** from the 🇺🇲 USA, currently living in 🇯🇵 Japan. こんにちは! I specialize in **Javascript** and build interesting things using **React**! More importantly, I can center a div! 
 
 One of the cool things I've built is **Flip**, the cutest flashcard app that you can find to help you study and memorize anything! 
 <div align="center">
