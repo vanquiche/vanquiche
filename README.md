@@ -64,4 +64,4 @@ Hit me up: stevevang425@gmail.com
 **Follow Me!**
 
 [<img src="https://img.icons8.com/fluency/48/000000/linkedin.png"/>](https://www.linkedin.com/in/stevevang/)
-[<img src="https://img.icons8.com/color/48/000000/twitter--v1.png"/>](#)
+[<img src="https://img.icons8.com/color/48/000000/twitter--v1.png"/>](https://twitter.com/stevevangdev)
