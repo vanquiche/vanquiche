@@ -8,15 +8,6 @@
 
 I'm **Steve**, a **Frontend Developer** from the 🇺🇲 USA, currently living in 🇯🇵 Japan. こんにちは! I specialize in **Javascript** and build interesting things using **React**! More importantly, I can center a div! 
 
-One of the cool things I've built is **Flip**, the cutest flashcard app that you can find to help you study and memorize anything! 
-<div align="center">
- 
-![Flip banner](https://res.cloudinary.com/dvrs8gsj3/image/upload/v1664945805/flip-app/flip-banner_msibq8.png)
- 
-</div>
-
-You can learn more about Flip [here](https://flipflashcard.com), or better yet, try it out for yourself by downloading it from the [App Store](https://apps.apple.com/us/app/flip-flashcard/id1637560175?l=en). Your future (and *smarter*) self will thank you 🤓. 
-
 ### Software
 
 I'm always learning new tools and skills but currently some of my favorite technologies are: 
