@@ -1,8 +1,8 @@
-<div align="center">
+<!-- <div align="center">
  
 ![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
  
-</div>
+</div> -->
 
 ### Ciao! 
 
