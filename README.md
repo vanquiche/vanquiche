@@ -6,7 +6,7 @@
 
 ### Ciao! 
 
-I'm **Steve**, a **Frontend Developer** from the 🇺🇲 USA, currently living in 🇯🇵 Japan. こんにちは! I specialize in **Javascript** and build interesting things using **React**!
+I'm **Steve**, a **Frontend Developer** I specialize in **Javascript** and build interesting things using **React**!
 
 ### Software
 
