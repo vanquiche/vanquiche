@@ -6,20 +6,14 @@
 
 ### Ciao! 
 
-I'm **Steve**, a **Frontend Developer** I specialize in **Javascript** and build interesting things using **React**!
+I'm **Steve**, I love developing applications with beautiful designs and intuitive user experiences!
 
-### Software
+Some of my work includes "Flip Flashcard," an iOS app designed to assist users in studying and retaining information. Additionally, I have authored and published frontend components for both the React and WordPress ecosystems. In all my projects I strive to prioritize performance, accessibility, responsive design, and user experience.
 
-I'm always learning new tools and skills but currently some of my favorite technologies are: 
-| Languages  | Frameworks | Testing | Database |
-|------------|------------|---------|----------|
-|HTML5       |React       |Jest     |MySQL     |
-|CSS3        |NextJS      |Cypress  |Postgres  |
-|Javascript  |NodeJS      |Testing Libraray |MongoDB |
-|Typescript  |Vue         
+Currently, I'm diving into the realm of cloud services, particularly **Amazon Web Services**, to explore how to utilize them for enhanced architecture, scalability, and quicker deployments.
 
 ### Contact 
-Looking to hire a Frontend Developer that is a team player, has an eye for design, and can center a div?
+Looking to hire a Software Developer that is a team player, has an eye for design, and can center a div?
 
 Hit me up: stevevang425@gmail.com
 
