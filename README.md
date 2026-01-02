@@ -15,8 +15,6 @@ Currently, I'm diving into the realm of cloud services, particularly **Amazon We
 ### Contact 
 Looking to hire a Software Developer that is a team player, has an eye for design, and can center a div?
 
-Hit me up: stevevang425@gmail.com
-
 **Follow Me!**
 
 [<img src="https://img.icons8.com/fluency/48/000000/linkedin.png"/>](https://www.linkedin.com/in/stevevang/)
